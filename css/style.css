@@ -19,7 +19,6 @@ nav {
 .container {
   margin: 0px auto;
   width: 420px;
-  height: 10px;
 }
 
 .restaurant-list {
@@ -28,12 +27,10 @@ nav {
 
 .arrow {
   float: right;
-  width: 10%
-  margin-top: 43px;
-  padding-right: 20px;
-  padding-top: 35px;
+  width: 10%;
+  padding-top: 23px;
+  padding-right: 30px;
 }
-
 
 .location {
   height: 70px;
@@ -48,7 +45,6 @@ nav {
 }
 
 .content {
-  display: inline;
   float: left;
   width: 80%;
 }
